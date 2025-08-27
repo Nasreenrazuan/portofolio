@@ -1,6 +1,6 @@
 # Portofolio Web — [Faris Edrik P / rissss21]
 
-Selamat datang di portofolio web pribadi saya! 🌐  
+Selamat datang di portfolio web pribadi saya! 🌐  
 Dibuat dengan React + Vite, ini adalah showcase dari project, skill, dan karya yang ingin saya bagikan.
 
 ##  Struktur Project

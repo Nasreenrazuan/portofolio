@@ -1,9 +1,6 @@
 import { useState, useEffect } from "react";
 
 const Navbar = ({ hidden = false }) => {
-  // ⛔ Saat hidden, jangan render apa pun
-  if (hidden) return null;
-
   const [active, setActive] = useState(false);
 
   useEffect(() => {
@@ -13,12 +10,15 @@ const Navbar = ({ hidden = false }) => {
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
 
+  // ⛔ Safe return AFTER hooks
+  if (hidden) return null;
+
   return (
     <nav className="navbar relative z-50 py-7 flex items-center justify-between px-6 md:px-12">
       {/* Logo */}
       <div className="logo">
         <h1 className="text-3xl font-bold text-white p-1 md:bg-transparent md:text-white">
-          Portofolio
+          Portfolio
         </h1>
       </div>
 
@@ -30,7 +30,7 @@ const Navbar = ({ hidden = false }) => {
           md:bg-transparent md:backdrop-blur-none
           p-4 rounded-br-2xl rounded-bl-2xl 
           transition-all md:transition-none
-          ${active ? "top-0 opacity-100" : "-top-10 opacity-0"}`}
+          ${active ? "top-0 opacity-100" : "-top-10 opacity-0 md:top-0 md:opacity-100"}`}
       >
         <li><a href="#home" className="sm:text-lg text-base font-medium">Home</a></li>
         <li><a href="#about" className="sm:text-lg text-base font-medium">About</a></li>
