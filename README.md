@@ -22,7 +22,7 @@ Dibuat dengan React + Vite, ini adalah showcase dari project, skill, dan karya y
 
 1. Clone repository ini:
 ```bash
-git clone https://github.com/Nasreenrazuan/portofolio.git
+git clone https://gitlab.com/mohamadnasreenrazuan/portofolio.git
 cd portofolio
 ````
 
@@ -51,11 +51,11 @@ Jika sudah di-deploy (contoh: GitHub Pages, Netlify, Vercel), kamu bisa tambahka
 Hai, saya Faris Edrik P (username GitHub: `rissss21`).
 Saya seorang Developer yang suka bikin aplikasi web ringan dengan tampilan modern dan performa tinggi. Scroll aja di project saya, dan jangan sungkan untuk reach out kalau ada pertanyaan!
 
-* **Email:** [email\_farisedrik21@gmail.com](mailto:email_farisedrik21@gmail.com)
-* **LinkedIn:** [linkedin.com/in/farisedp](https://www.linkedin.com/in/farisedp/)
-* **Instagram (opsional):** @farisedrikprayoga
+* **Email:** [email\_farisedrik21@gmail.com](mailto:nasreenrazuan@gmail.com)
+* **LinkedIn:** [linkedin.com/in/farisedp](https://www.linkedin.com/in/nasreenrazuan/)
+* **Instagram (opsional):** @nasreenraz_
 
 ---
 
 
-[1]: https://github.com/Nasreenrazuan/portofolio "GitHub - rissss21/portofolio"
+[1]: https://gitlab.com/mohamadnasreenrazuan/portofolio "GitHub - rissss21/portofolio"
