@@ -1,4 +1,4 @@
-# Portofolio Web — [Faris Edrik P / rissss21]
+# Portofolio Web — [nasreenrazuan / nasreen]
 
 Selamat datang di portfolio web pribadi saya! 🌐  
 Dibuat dengan React + Vite, ini adalah showcase dari project, skill, dan karya yang ingin saya bagikan.
@@ -48,11 +48,11 @@ Jika sudah di-deploy (contoh: GitHub Pages, Netlify, Vercel), kamu bisa tambahka
 
 ## Tentang Saya
 
-Hai, saya Faris Edrik P (username GitHub: `rissss21`).
-Saya seorang Developer yang suka bikin aplikasi web ringan dengan tampilan modern dan performa tinggi. Scroll aja di project saya, dan jangan sungkan untuk reach out kalau ada pertanyaan!
+Hai, saya nasreen razuan (username GitHub: `nasreenrazuan`).
+I’m a developer who enjoys building lightweight web applications with modern design and high performance. Feel free to scroll through my projects, and don’t hesitate to reach out if you have any questions!
 
-* **Email:** [email\_farisedrik21@gmail.com](mailto:nasreenrazuan@gmail.com)
-* **LinkedIn:** [linkedin.com/in/farisedp](https://www.linkedin.com/in/nasreenrazuan/)
+* **Email:** [email\_nasreenrazuan@gmail.com](mailto:nasreenrazuan@gmail.com)
+* **LinkedIn:** [linkedin.com/in/nasreenrazuan](https://www.linkedin.com/in/nasreenrazuan/)
 * **Instagram (opsional):** @nasreenraz_
 
 ---
