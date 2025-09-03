@@ -1,7 +1,8 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
+import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
-  base: "/portofolio/", // Change to "/" if deploying to root
-  plugins: [react()],
+  base: "/portofolio/", // ✅ must have trailing slash
+  plugins: [react(), tailwindcss()],
 })
