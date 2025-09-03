@@ -44,7 +44,7 @@ npm run build
 ## &#x20;Quick Preview
 
 If you have deployed (example: GitHub Pages, Netlify, Vercel), you can add link deploy here, for example:
-[🔗 To see live version](https://username.github.io/portofolio/)
+[🔗 To see live versions](https://username.github.io/portofolio/)
 
 ## About me
 
