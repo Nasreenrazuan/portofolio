@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
-  base: "/portofolio/", // ✅ must have trailing slash
+  base: "/portofolio/",  // 👈 must match your repo name
   plugins: [react(), tailwindcss()],
 })
