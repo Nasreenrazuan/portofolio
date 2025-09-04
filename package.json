@@ -1,12 +1,12 @@
 {
   "name": "portofolio",
-  "homepage": "https://Nasreenrazuan.github.io/portofolio/",
+  "homepage": "https://nasreenrazuan.github.io/portofolio/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build && npx copyfiles dist/index.html dist/404.html",
+    "build": "vite build && cp dist/index.html dist/404.html",
     "lint": "eslint .",
     "preview": "vite preview",
     "deploy": "gh-pages -d dist"
@@ -36,7 +36,6 @@
     "@types/react": "^19.1.10",
     "@types/react-dom": "^19.1.7",
     "@vitejs/plugin-react": "^5.0.0",
-    "copyfiles": "^2.4.1",
     "eslint": "^9.33.0",
     "eslint-plugin-react-hooks": "^5.2.0",
     "eslint-plugin-react-refresh": "^0.4.20",
